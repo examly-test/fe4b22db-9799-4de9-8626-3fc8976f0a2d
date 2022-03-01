@@ -4,3 +4,4 @@ Testing
 Strict mode
 
 Test mode
+123
