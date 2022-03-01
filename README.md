@@ -5,3 +5,6 @@ Strict mode
 
 Test mode
 123
+
+
+test result
