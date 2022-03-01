@@ -3,6 +3,4 @@
 Testing
 Strict mode
 
-testing
-
-updated
+Test mode
