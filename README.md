@@ -3,8 +3,4 @@
 Testing
 Strict mode
 
-Test mode
 123
-
-3434
-test result123
